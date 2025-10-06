@@ -15,7 +15,7 @@ export default function handler(req, res) {
       <meta charset="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <title>Mengarahkan...</title>
-      <meta http-equiv="refresh" content="3;url=${target}" />
+      <meta http-equiv="refresh" content="5;url=${target}" />
       <style>
         body {
           font-family: sans-serif;
